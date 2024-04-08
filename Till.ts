@@ -67,7 +67,7 @@ const transactions: Transaction[] = [
     ],
     paid: 'R100-R100',
   },
-  //... add more transactions here
+  
 ];
 
 console.log(processTransactions(500, transactions));
